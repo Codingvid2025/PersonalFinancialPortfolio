@@ -1,0 +1,5 @@
+name: finport
+channels:
+  - defaults
+dependencies: []
+prefix: C:\Users\16479\miniconda3\envs\finport
